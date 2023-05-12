@@ -5,3 +5,10 @@ export class UserModel {
 
 
 }
+export class UserMode2l {
+    public amiiboSeries: string;
+    public image: string;
+    public tail: string;
+
+
+}
