@@ -5,11 +5,3 @@ export class UserModel {
 
 
 }
-
-export class UserModels {
-    public amiiboSeries: string;
-    public image: string;
-    public tail: string;
-
-
-}
